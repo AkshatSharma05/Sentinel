@@ -1,0 +1,29 @@
+{
+    "diseaseList": [
+        {
+            "plant_id": 1,
+            "title": "Mine Rescue",
+            "content": "Call for Help"
+        },
+        {
+            "plant_id": 2,
+            "title": "Forest Rescue",
+            "content": "Call for Help"
+        },
+        {
+            "plant_id": 3,
+            "title": "Fire Rescue",
+            "content": "Call for Help"
+        },
+        {
+            "plant_id": 4,
+            "title": "Water Rescue",
+            "content": "Call for Help"
+        },
+        {
+            "plant_id": 5,
+            "title": "Hazardous Rescue",
+            "content": "Call for Help"
+        }
+    ]
+}
